@@ -1,0 +1,5 @@
+INDEX VERSION 1.134
+C:\Users\conta\OneDrive\Área de Trabalho\JavaServletJDEV\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3897528423.index
+\curso-jsp\src\main\java
+C:\Users\conta\OneDrive\Área de Trabalho\JavaServletJDEV\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1239803670.index
+\curso-jsp\src\main\java

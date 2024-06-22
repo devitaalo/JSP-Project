@@ -1,0 +1,19 @@
+@charset "ISO-8859-1";
+
+.form-signin{
+	max-width: 364px;
+	padding: 1rem;
+}
+
+img {
+	width: 150px;
+}
+
+.msg-error {
+	color: red;
+	font-size: 1rem;
+}
+
+.alinha-centro {
+	text-align: center;
+}
